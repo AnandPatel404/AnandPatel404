@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there, I'm [Your Name]! 👋
 
-<!--
-**AnandPatel404/AnandPatel404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 MERN Stack Developer | 🌐 Nginx Hosting Expert | 🛠️ Automation Enthusiast
 
-Here are some ideas to get you started:
+🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+🚀 What I Do
+1️⃣ Build MERN Stack Applications: Full-stack web development using MongoDB, Express, React, and Node.js.
+2️⃣ Deploy & Host on VPS with Nginx: Configure Nginx for high-performance hosting.
+3️⃣ Automate Everything: Automate tasks with Puppeteer and create streamlined workflows.
+4️⃣ TypeScript: Write clean and scalable code using TypeScript for better developer experience.
+5️⃣ Database Management: Efficient with SQL and HeidiSQL for database operations and performance optimization.
+
+
+🌍 Get in Touch
+
+📧 Email: anandvadhadia92@gmail.com
+🔗 project: https://whatsme.in/
+🔗 project: [https://fin.in/](https://app.finradar.in/)
