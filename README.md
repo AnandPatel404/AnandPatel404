@@ -1,4 +1,4 @@
-Hi there, I'm [Your Name]! 👋
+Hi there, I'm Anand Patel! 👋
 
 🎯 MERN Stack Developer | 🌐 Nginx Hosting Expert | 🛠️ Automation Enthusiast
 
@@ -18,5 +18,6 @@ Hi there, I'm [Your Name]! 👋
 🌍 Get in Touch
 
 📧 Email: anandvadhadia92@gmail.com
-🔗 project: https://whatsme.in/
-🔗 project: [https://fin.in/](https://app.finradar.in/)
+🔗 project: [whatsme](https://whatsme.in/)
+🔗 project: [finradar](https://app.finradar.in/)
+🔗 project: [upigateway](https://upigateway.com/)
