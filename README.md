@@ -72,11 +72,3 @@ A **Know your Customer And verification methods** Experience the convenience of 
 ![Pug](https://img.shields.io/badge/-Pug-0B9E58?logo=pug&logoColor=white&style=flat-square)
 ![Automation](https://img.shields.io/badge/-Automation-FF5722?logo=git&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat-square)
-
-## [Project 4: Bot for scrap data nse and bse]
-A **Scrap a all information from nse and bse website for stock stock analysis**
-**Technologies**:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Automation](https://img.shields.io/badge/-Automation-FF5722?logo=git&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat-square)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=flat-square)
